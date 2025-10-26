@@ -75,4 +75,4 @@ NOTES
 SCREENSHOTS / DEMO
 
 
-![Screenshot](react-frontend/src/Screenshot-2025-10-26-114036-1.png)
+![Screenshot](react-frontend/Screenshot-2025-10-26-114036-1.png)
